@@ -1,0 +1,94 @@
+.logo{
+    float: right;
+    max-height: 120px;
+}
+
+.logoheader{
+    max-height: 25px;
+
+}
+
+.glyphicon.glyphicon-cloud{
+
+    font-size: 80px;
+    color: red;
+}
+
+.glyphicon.glyphicon-star{
+
+    font-size: 80px;
+    color: red;
+}
+
+.glyphicon.glyphicon-globe{
+
+    font-size: 80px;
+    color: red;
+}
+
+#icons {
+	padding-bottom: 80px;
+
+}
+
+.carousel .item {
+  height: 600px;
+}
+
+.item img {
+    position: absolute;
+    top: 0;
+    left: 0;
+    min-height: 600px;
+}
+
+.table.table-striped, .table.table-striped th{
+	text-align: center;
+}
+
+.table{
+	overflow:hidden;
+    border-collapse:separate;
+	border: 1px solid #c9c9c9;
+	   -webkit-border-radius: 25px;
+       -moz-border-radius: 25px;
+       border-radius: 25px;
+}
+
+#abas{
+	padding-bottom: 20px;
+}
+
+.tab-content{
+	text-align: center;
+	height: 450px;
+	max-height: 450px;
+}
+
+#home{
+	padding: 45px;
+}
+
+#home img{
+	max-width: 300px;
+}
+
+.container form{
+	max-width: 480px;
+	margin: 0 auto;
+
+}
+
+#alerta1{
+    padding-bottom: 50px;
+}
+
+#form1{
+    padding-bottom: 50px;
+
+}
+
+#form-int{
+    padding: 10px;
+    border: 1px solid #eeeeee;
+}
